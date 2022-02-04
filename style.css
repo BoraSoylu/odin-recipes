@@ -1,0 +1,19 @@
+#all-recipes-list{
+    text-align:inherit;
+    list-style-position: inside;
+}
+
+.title{
+    color: rgb(202, 98, 98);
+}
+
+.image{
+    width: 400px;
+    height: auto;
+}
+
+.homepage{
+    text-align: center;
+    background-color: khaki;
+    font-family: "Papyrus";
+}
